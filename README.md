@@ -14,19 +14,19 @@ The following screenshots showcase the PHP information page rendered in the web 
 
 ## PHP Version
 
-![Screenshot]()
+![Screenshot](php1.png)
 
 ## Configuration
 
-![Screenshot]()
+![Screenshot](php2.png)
 
 ## Core
 
-![Screenshot]()
+![Screenshot](php3.png)
 
 ## Environment
 
-![Screenshot]()
+![Screenshot](php4.png)
 
 # Support and Contact
 
